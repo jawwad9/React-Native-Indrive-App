@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
     fontSize: 20, // Size of the text
     fontWeight: 'bold', // Bold text
     color: '#333', // Text color
-    textAlign: 'center', // Ensure text is centered
+    textAlign: 'center', 
   },
 });
 
